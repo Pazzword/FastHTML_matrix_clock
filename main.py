@@ -51,7 +51,7 @@ def get():
                 canvas.width = window.innerWidth;
                 canvas.height = window.innerHeight;
 
-                const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789';
+                const letters = 'Tﾇ4ﾒﾑｼﾐﾓDFQ5ﾜUﾋｽP3ｰMGﾏW86ﾂ7ｷN2ﾊｾﾈOﾍXLｴVSﾗRｵﾀﾅﾃﾕｻﾆCBHJE0ﾘY1ｳAﾎKI9ｱZｹｶ';
                 const fontSize = 10;
                 const columns = canvas.width / fontSize;
                 const drops = Array(Math.floor(columns)).fill(1);
